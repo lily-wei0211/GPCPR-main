@@ -12,9 +12,7 @@
 
 ## Running 
 
-**Data preparation please follow [attMPTI](https://github.com/Na-Z/attMPTI).**
-
-**Installation please follow [attMPTI](https://github.com/Na-Z/attMPTI) and [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) .**
+**Installation and data preparation please follow [attMPTI](https://github.com/Na-Z/attMPTI).**
 
 
 ### Training
